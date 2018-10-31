@@ -1,13 +1,8 @@
 ## Predicting progressions and clinical subtypes of Alzheimer’s disease using machine learning 
 ### Authors
 
-Vipul Satone$^{1}$, Rachneet Kaur$^{1}$, Faraz Faghri$^{2, 3}$, Roy H. Campbell$^{3}$
+Vipul Satone, Rachneet Kaur, Faraz Faghri, Roy H. Campbell
 
-1 - Department of Industrial and Enterprise Systems Engineering, University of Illinois Urbana-Champaign, IL, 61820, USA
-
-2 - Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, MD, 20892, USA
-
-3 - Department of Computer Science, University of Illinois Urbana-Champaign, IL, 61820, USA
 
 ### ABSTRACT
 Alzheimer’s disease is a degenerative brain disease which impairs person’s ability perform day to day activities. Research has shown AD to be a heterogeneous condition, having high variation in terms of the symptoms and disease progression rate. Treating Alzheimer's disease (AD) is especially challenging due to theses variations present in the disease progression stages.  The clinical symptoms of AD are identified by substantial diversity in terms of patients’ age, disease span, progression velocity and types of memory, cognitive and depression related features. Hence, the idea of personalized clinical care, with individualized risk, progression and prediction related patient advice in AD is narrow. This facilitates the yet unfulfilled need for an early prediction of the disease course to assist its treatment and therapy with the progression rate. 
