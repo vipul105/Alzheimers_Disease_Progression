@@ -17,4 +17,4 @@ The machine learning techniques presented in this study may assist providers wit
 
 
 
-##### The versions of python the packages used in the analysis can be found in the file plos_one_requirements.txt.
+##### The versions of python the packages used in the analysis can be found in the file python_package_versions.txt.
