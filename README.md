@@ -14,3 +14,7 @@ The suggested work clusters participants in distinct and multifaceted progressio
 
 ## Conclusion
 The machine learning techniques presented in this study may assist providers with identifying different progression rates and trajectories in the early stages of disease progression, hence allowing for more efficient and unique care deliveries. With additional information about the progression rate of AD at hand, providers may further individualize the treatment plans. The predictive tests discussed in this study not only allow for early AD diagnosis but also facilitate the characterization of distinct AD subtypes relating to trajectories of disease progression. These findings are a crucial step forward to early disease detection. Additionally, models can be used to design improved clinical trials for AD research.
+
+
+
+##### The versions of python the packages used in the analysis can be found in the file plos_one_requirements.txt.
