@@ -18,12 +18,24 @@ The machine learning techniques presented in this study may assist providers wit
 * Note: The versions of python the packages used in the analysis can be found in the file python_package_versions.txt.
 
 ## Code description:
-Version 1 ML4H@NeurIPS2018 contains codes for results presented in 
+Folder **Version 1 ML4H@NeurIPS2018** contains codes for results presented in 
 ```
 @article{satone2018learning,
   title={Learning the progression and clinical subtypes of Alzheimer's disease from longitudinal clinical data},
   author={Satone, Vipul and Kaur, Rachneet and Faghri, Faraz and Nalls, Mike A and Singleton, Andrew B and Campbell, Roy H},
   journal={arXiv preprint arXiv:1812.00546},
   year={2018}
+}
+```
+
+Main folder contains codes for results presented in 
+```
+@article{satone2019predicting,
+  title={Predicting Alzheimer’s disease progression trajectory and clinical subtypes using machine learning},
+  author={Satone, Vipul K and Kaur, Rachneet and Leonard, Hampton and Iwaki, Hirotaka and Sargent, Lana and Scholz, Sonja W and Nalls, Mike A and Singleton, Andrew B and Faghri, Faraz and Campbell, Roy H and others},
+  journal={bioRxiv},
+  pages={792432},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
