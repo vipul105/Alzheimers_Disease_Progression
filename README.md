@@ -3,7 +3,7 @@
 
 Vipul K. Satone, Rachneet Kaur, Hampton Leonard, Hirotaka Iwaki, Lana Sargent, for the Alzheimer’s Disease Neuroimaging Initiative, Sonja W. Scholz, Mike A. Nalls, Andrew B. Singleton, Faraz Faghri, Roy H. Campbell  
 
-
+#### [Interactive website](https://share.streamlit.io/kaurrachneet6/mlforadni/main) for clinical researchers to predict the clinical subtype of an Alzheimer's disease patient based on clinical parameters
 
 ## Abstract
 ### Background
@@ -16,6 +16,7 @@ The suggested work clusters participants in distinct and multifaceted progressio
 The machine learning techniques presented in this study may assist providers with identifying different progression rates and trajectories in the early stages of disease progression, hence allowing for more efficient and unique care deliveries. With additional information about the progression rate of AD at hand, providers may further individualize the treatment plans. The predictive tests discussed in this study not only allow for early AD diagnosis but also facilitate the characterization of distinct AD subtypes relating to trajectories of disease progression. These findings are a crucial step forward to early disease detection. Additionally, models can be used to design improved clinical trials for AD research.
 
 * Note: The versions of python the packages used in the analysis can be found in the file python_package_versions.txt.
+* Code for the [interactive webpage](https://share.streamlit.io/kaurrachneet6/mlforadni/main) is available on https://github.com/kaurrachneet6/MLforADNI.git
 
 ## Code description:
 Folder **Version 1 ML4H@NeurIPS2018** contains codes for results presented in 
